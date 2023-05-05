@@ -22,9 +22,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Air Pollution app <a name="about-project"></a>
+# 📖 Metrics webapp <a name="about-project"></a>
 
-**Air Pollution app** is a web app that allows the user to get data about air quality of every country in the world,
+**Metrics webapp** is a web app that allows the user to get data about air quality of every country in the world,
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -117,7 +117,7 @@ To run tests using jest, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> In the future, the following features will be considered:
+In the future, the following features will be added:
 
 - [ ] **Update pollution info in live**
 - [ ] **Use the local storage to avoid losing data when the user refreshes the page**
@@ -145,7 +145,7 @@ Feel free to check the [issues page](https://github.com/Tshobohwa/metrics-webapp
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> I would like to thank [Microverse Inc](https://www.github.com/microverseinc) for providing the project requirements, the open API, and the wireframe.
+I would like to thank [Microverse Inc](https://www.github.com/microverseinc) for providing the project requirements, the open API, and the wireframe.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
