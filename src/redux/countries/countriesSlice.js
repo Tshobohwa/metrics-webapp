@@ -25,14 +25,14 @@ export const getPollutionInfos = createAsyncThunk(
       const { capital, pollutionInfoAvailable } = country;
       if (pollutionInfoAvailable) return { ...country, displayed: true };
       const respone1 = await fetch(
-        `http://api.openweathermap.org/geo/1.0/direct?q=${capital}&limit=1&appid=${pollutionAPIKey}`,
+        `https://api.openweathermap.org/geo/1.0/direct?q=${capital}&limit=1&appid=${pollutionAPIKey}`,
       );
       if (!respone1) throw new Error('Wrong input');
       const data1 = await respone1.json();
       if (!data1) throw new Error(`Enable to get coordinates of ${capital}`);
       const { lat, lon } = data1[0];
       const respone = await fetch(
-        `http://api.openweathermap.org/data/2.5/air_pollution?lat=${lat}&lon=${lon}&appid=${pollutionAPIKey}`,
+        `https://api.openweathermap.org/data/2.5/air_pollution?lat=${lat}&lon=${lon}&appid=${pollutionAPIKey}`,
       );
       const data = await respone.json();
       return {
