@@ -3,9 +3,10 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
+- [Video description](#video-description)
+- [🛠 Built With](#built-with)
+  - [Tech Stack](#tech-stack)
+  - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -25,6 +26,12 @@
 # 📖 Air Pollution app <a name="about-project"></a>
 
 **Air Pollution app** is a web app that allows the user to get data about air quality of every country in the world,
+
+<!-- LIVE DEMO -->
+
+## 🚀 Video Description <a name="video-description"></a>
+
+- [Loom](https://www.loom.com/share/3cac598750f5475295172932dda60ccc)
 
 ## 🛠 Built With <a name="built-with"></a>
 
