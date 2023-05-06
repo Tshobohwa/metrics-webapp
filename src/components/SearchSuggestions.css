@@ -1,0 +1,9 @@
+.suggestions--list {
+  position: absolute;
+  top: 0;
+  margin-top: 2.4rem;
+  margin-left: -2rem;
+  width: 100%;
+  list-style: none;
+  z-index: 100;
+}

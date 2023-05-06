@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&family=Nunito+Sans:wght@300;400;700;900&display=swap');
+
+:root {
+  --main-background-color: #5789e3;
+  --primary-color: #4268af;
+  --secondary-color: #3f62a4;
+  --tertiary-color: #35548c;
+  --quaternary-color: #4468b3;
+  --white-color: #fff;
+  --body-and-title-font:
+    'Nunito Sans',
+    sans-serif;
+  --control-font:
+    'Lato',
+    sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: var(--main-background-color);
+  width: 100vw;
+  color: var(--white-color);
+}
+
+a {
+  text-decoration: none;
+  color: var(--white-color);
+}
