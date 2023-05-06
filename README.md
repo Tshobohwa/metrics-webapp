@@ -3,7 +3,7 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-- [Video description](#video-description)
+- [Live demo](#live-demo)
 - [🛠 Built With](#built-with)
   - [Tech Stack](#tech-stack)
   - [Key Features](#key-features)
@@ -25,13 +25,15 @@
 
 # 📖 Air Pollution app <a name="about-project"></a>
 
-**Air Pollution app** is a web app that allows the user to get data about air quality of every country in the world,
+**Air Pollution app** is a web app that allows the user to get data about air quality of every country in the world.
 
-<!-- LIVE DEMO -->
+Video description : [Loom](https://www.loom.com/share/3cac598750f5475295172932dda60ccc)
 
-## 🚀 Video Description <a name="video-description"></a>
+<!-- Live demo -->
 
-- [Loom](https://www.loom.com/share/3cac598750f5475295172932dda60ccc)
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Air pollution alert](https://live-pollution-info-tsh.onrender.com/)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -152,7 +154,8 @@ Feel free to check the [issues page](https://github.com/Tshobohwa/metrics-webapp
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> I would like to thank [Microverse Inc](https://www.github.com/microverseinc) for providing the project requirements, the open API, and the wireframe.
+I would like to thank [Microverse Inc](https://www.github.com/microverseinc) for providing the project requirements, the open API, and the wireframe.
+I would like also to thank [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) For providing me the original design of this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
